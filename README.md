@@ -31,7 +31,7 @@ The dataset is sourced from the National Stock Exchange (NSE) of India, focusing
 
 ---
 
-## **Installation**
+## **Installation & Usage**
 
 1. Clone this repository:
    ```bash

@@ -39,7 +39,7 @@ The dataset is sourced from the National Stock Exchange (NSE) of India, focusing
    
    cd CorrectorLSTM_FinEco_Paper
 
-2. **Technologies Used:** 
+2. **Tech-Stack:** 
 * Programming Language: Python
 * Libraries:
     - TensorFlow/Keras

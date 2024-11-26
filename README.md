@@ -53,6 +53,10 @@ The dataset is sourced from the National Stock Exchange (NSE) of India, focusing
 
 ---
 
+## Sample
+![Model Architecture](https://github.com/ankit485803/CorrectorLSTM_FinEco_Paper/blob/main/Model/Bi_Directional_LSTM/OnEntireData_usingBiDirectionalLSTM.png) 
+
+
 
 ## Future Work
 - Extend the model to multi-stock datasets for broader applicability.
